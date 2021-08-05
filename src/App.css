@@ -18,11 +18,7 @@
 }
 .app__posts{
   padding:20px;
-  display:flex;
-  justify-content: center;
-}
-.app__postsRight{
-  margin-left:20px;
+  margin-left: 500px;
 }
 .app__headerImage{
   object-fit:contain;
